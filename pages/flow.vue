@@ -78,6 +78,24 @@
           </div>
           <div>
             <h4 class="SodanHeader">
+              愛知県精神保健福祉センター
+            </h4>
+
+            <p
+              style="display: flex; justify-content: center; align-items: center;"
+            >
+              <a
+                style="font-size: 8.3333333333vw; font-weight: bold; text-align: center; text-decoration: none;"
+                href="https://www.pref.aichi.jp/site/covid19-aichi/soudan-korona.html"
+              >
+                052-962-5377
+                <v-icon size="16">
+                  mdi-open-in-new
+                </v-icon>
+              </a>
+            </p>
+
+            <h4 class="SodanHeader">
               愛知県－LINE公式アカウント
             </h4>
 
@@ -254,7 +272,7 @@
         </div>
       </div>
       <a
-        href="https://www.pref.aichi.jp//soshiki/kenkotaisaku/novel-coronavirus.html"
+        href="https://www.pref.aichi.jp/site/covid19-aichi/"
         target="_blank"
         rel="noopener"
         class="Flow-Card-Button"
